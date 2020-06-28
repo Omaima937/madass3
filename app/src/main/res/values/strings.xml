@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">madass3</string>
+    <string name="invalid_name">Please enter  name</string>
+    <string name="invalid_email">Enter valid email</string>
+    <string name="invali_aval">invalid avail</string>
+    <string name="invalid_password">please enter password</string>
+</resources>
